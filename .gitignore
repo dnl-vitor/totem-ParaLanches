@@ -1,6 +1,6 @@
 # arquivos a serem ignoradas
-requisitos.txt
-.env
+*.txt
+*.env
 
 # pastas
 build/

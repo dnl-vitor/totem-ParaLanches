@@ -1,7 +1,0 @@
-tabelas: usuario, pedido, cliente, lanches, pizzas, bebidas, combos, pagamento.
-
-lanches
-pizza
-adicionais: bebidas, batata, molhos
-combos: referencial
-
