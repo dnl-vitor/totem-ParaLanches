@@ -1,0 +1,8 @@
+# arquivos a serem ignoradas
+.txt
+.env
+
+# pastas
+build/
+out/
+
